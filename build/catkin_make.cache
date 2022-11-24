@@ -1,0 +1,2 @@
+ddynamic_reconfigure-kinetic-devel:realsense2_camera:realsense2_description:srtp_pcreg:ur5_moveit_config:ur_description:ur_gazebo:ur_kinematics:ur_msgs
+-DCATKIN_DEVEL_PREFIX=/home/yyf/Documents/SRTP_ROS2022/devel -DCMAKE_INSTALL_PREFIX=/home/yyf/Documents/SRTP_ROS2022/install -G Unix Makefiles

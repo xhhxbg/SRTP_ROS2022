@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yyf/Documents/ros_srtp/devel/include/**",
+        "/home/yyf/ros02/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yyf/Documents/ros_srtp/src/realsense2_camera/include/**",
+        "/home/yyf/ros02/src/srtp01_pcreg/include/**",
+        "/home/yyf/ros02/src/srtp_rosbag/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

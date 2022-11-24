@@ -1,0 +1,8 @@
+prefix=/home/yyf/Documents/SRTP_ROS2022/devel
+
+Name: srtp_pcreg
+Description: Description of srtp_pcreg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
